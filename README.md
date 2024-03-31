@@ -39,6 +39,7 @@
 <div align="center"> ITQ 워드
 <div align="center"> ITQ 엑셀
 <div align="center"> ITQ PPT
+<div align="center"> 컴퓨터 활용능력 1급
 <div align="center"> 네트워크 관리사 2급
 <div align="center"> SQLD(SQL 개발자)
  
