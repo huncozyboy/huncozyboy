@@ -33,6 +33,19 @@
 
 <br>
 
+<br>
+
+<h3 align="center">💳 certificate 💳</h3>
+<div align="center"> ITQ 워드
+<div align="center"> ITQ 엑셀
+<div align="center"> ITQ PPT
+<div align="center"> 네트워크 관리사 2급
+<div align="center"> SQLD(SQL 개발자)
+ 
+</div>
+
+<br>
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://instagram.com/huncozyboy/">
