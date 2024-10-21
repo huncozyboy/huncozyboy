@@ -24,10 +24,9 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://instagram.com/huncozyboy/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="mailto:leejh5838@gmail.com">
-    <img
-      src="https://img.shields.io/badge/leejh5838@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+    <img src="https://img.shields.io/badge/leejh5838@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
