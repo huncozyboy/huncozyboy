@@ -1,4 +1,7 @@
-
+<!-- GitHub Stats -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huncozyboy&theme=github" />
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
