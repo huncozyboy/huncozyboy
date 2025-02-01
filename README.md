@@ -3,33 +3,31 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huncozyboy&theme=github" />
 </div>
 
-<!--내용 부분-->
-<h3 align="center">✨ Tech Stack ✨</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
-</div>
+## ✨ Tech Stack ✨ 
+<p align="left">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
-<br>
+## 💳 Certificate 💳
+| Certification | Date of Acquisition | Certifying Organization |
+| ----------------- | ----------------- | ----------------- |
+| ITQ 한글 | 2020.06.11 | Korea Productivity Center |
+| ITQ 엑셀 | 2020.06.11 | Korea Productivity Center |
+| ITQ PPT | 2020.06.11 | Korea Productivity Center |
+| 컴퓨터 활용능력 1급 | 2020.11.17 | Korea Chamber of Commerce & Industry |
+| 네트워크 관리사 2급 | 2023.12.12 | Korea Information & Communication Qualification Association |
+| SQL Developer (SQLD) | 2024.04.05 | Korea Information & Communication Qualification Association |
 
-<h3 align="center">💳 certificate 💳</h3>
-<div align="center"> ITQ 워드
-<div align="center"> ITQ 엑셀
-<div align="center"> ITQ PPT
-<div align="center"> 컴퓨터 활용능력 1급
-<div align="center"> 네트워크 관리사 2급
-<div align="center"> SQLD(SQL 개발자)
- 
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
+## 📫 Contact 📫
+<p align="left">
   <a href="https://instagram.com/huncozyboy/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
   <a href="mailto:leejh5838@gmail.com">
     <img src="https://img.shields.io/badge/leejh5838@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
