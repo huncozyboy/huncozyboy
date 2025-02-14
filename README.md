@@ -3,7 +3,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huncozyboy&theme=github" />
 </div>
 
-## ✨ Tech Stack ✨ 
+## ✨ Tech Stack 
 <p align="left">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
-## 💳 Certificate 💳
+## 💳 Certificate
 | Certification | Date of Acquisition | Certifying Organization |
 | ----------------- | ----------------- | ----------------- |
 | ITQ 한글 | 2020.06.11 | Korea Productivity Center |
@@ -22,12 +22,8 @@
 | 네트워크 관리사 2급 | 2023.12.12 | Korea Information & Communication Qualification Association |
 | SQL Developer (SQLD) | 2024.04.05 | Korea Information & Communication Qualification Association |
 
-## 📫 Contact 📫
+## 👋🏻 Contact Me
 <p align="left">
-  <a href="https://instagram.com/huncozyboy/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="mailto:leejh5838@gmail.com">
-    <img src="https://img.shields.io/badge/leejh5838@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<a href="https://huncozyboy.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+<a href="mailto:leejh5838@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/huncozyboy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
