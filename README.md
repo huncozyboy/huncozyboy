@@ -9,9 +9,7 @@
 ## 💳 Certificate
 | Certification | Date of Acquisition | Certifying Organization |
 | ----------------- | ----------------- | ----------------- |
-| ITQ 한글 | 2020.06.11 | Korea Productivity Center |
-| ITQ 엑셀 | 2020.06.11 | Korea Productivity Center |
-| ITQ PPT | 2020.06.11 | Korea Productivity Center |
+| ITQ 한글, 엑셀, PPT | 2020.06.11 | Korea Productivity Center |
 | 컴퓨터 활용능력 1급 | 2020.11.17 | Korea Chamber of Commerce & Industry |
 | 네트워크 관리사 2급 | 2023.12.12 | Korea Information & Communication Qualification Association |
 | SQL Developer (SQLD) | 2024.04.05 | Korea Information & Communication Qualification Association |
